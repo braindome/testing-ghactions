@@ -33,7 +33,6 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             MyApp()
-            // github laptop
         }
     }
 }
